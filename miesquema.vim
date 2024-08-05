@@ -13,14 +13,16 @@ hi Comment ctermfg=101 ctermbg=NONE guifg=#5F87AF guibg=NONE
 
 " Define colores para strings
 "hi String ctermfg=190 ctermbg=NONE guifg=#87AF5F guibg=NONE
-hi String ctermfg=229 ctermbg=NONE guifg=#87AF5F guibg=NONE
+"hi String ctermfg=229 ctermbg=NONE guifg=#87AF5F guibg=NONE
+hi Number ctermfg=229 ctermbg=NONE guifg=#87AF5F guibg=NONE
 
 " Define colores para funciones
 hi Function cterm=bold ctermfg=240 ctermbg=NONE guifg=#FFD700 guibg=NONE
 
 " Define colores para números
 "hi Number ctermfg=148 ctermbg=NONE guifg=#5FD7D7 guibg=NONE
-hi Number ctermfg=186 ctermbg=NONE guifg=#5FD7D7 guibg=NONE
+"hi Number ctermfg=186 ctermbg=NONE guifg=#5FD7D7 guibg=NONE
+hi String ctermfg=187 ctermbg=NONE guifg=#5FD7D7 guibg=NONE
 
 "La Columan de los izquerda de numeración.
 hi SignColumn ctermbg=144 ctermfg=133
